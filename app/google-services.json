@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "41690630972",
+    "project_id": "scribble-902ea",
+    "storage_bucket": "scribble-902ea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41690630972:android:960d969cc80c2eef522c39",
+        "android_client_info": {
+          "package_name": "com.example.notesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqtdYN-W7RQZLmNMa0OQpEYbwVWIFmkxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
